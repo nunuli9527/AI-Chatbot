@@ -4,7 +4,6 @@ from openai import OpenAI
 from datetime import datetime
 import json
 
-from streamlit.runtime.state import session_state
 
 # 设置页面的配置项
 st.set_page_config(
