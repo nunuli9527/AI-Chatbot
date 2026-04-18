@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# 忽略练习文件
+01.deepseek调用测试.py
+02.json文件入门.py
+02.streamlit入门.py
+02.操作入门.py
+03.ai_partner_1.py
+04.ai_partner_2.py
+resources
